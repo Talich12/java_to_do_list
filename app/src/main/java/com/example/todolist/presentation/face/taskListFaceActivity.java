@@ -27,7 +27,6 @@ import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.ArrayList;
 import java.util.List;
-//import com.example.todolist_java_dvfu.model.Task;
 
 public class taskListFaceActivity  extends AppCompatActivity {
 
