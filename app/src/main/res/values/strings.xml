@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Список дел</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="task_text">Введите текст задачи</string>
+    <string name="list_text">Введите название списка</string>
+
+    <string name="task_face_title">Задача</string>
+    <string name="list_face_title">Список</string>
+
+
+    <string name="save">Сохранить</string>
+
+    <string name="done">Выполнено</string>
+
+</resources>
